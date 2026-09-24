@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rastaah Marketing · Your Path to Better Property Investment",
+      "hasCanvas": false,
+      "bodyTextLen": 4860,
+      "bodyTextHash": "eb3477484fb555618e2540f3231c462944aa66c7fbdc76de2ee60f90039f8e1d",
+      "bodyTextPrefix": "Skip to content Rastaah MARKETING Home About Properties Projects",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rastaah Marketing · Your Path to Better Property Investment",
+      "hasCanvas": false,
+      "bodyTextLen": 4725,
+      "bodyTextHash": "99ee4f2f7d1e9743fbdaeb692473ca0cbe3edd0672a8b2aa12e330295bb6bb0e",
+      "bodyTextPrefix": "Skip to content Rastaah MARKETING RASTAAH MARKETING Find the Rig",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
